@@ -1,0 +1,5 @@
+create or replace procedure CHK_DEPT_MGR(p_empno in emp.empno%type, p_mgr in emp.mgr%type) is
+begin
+  
+end CHK_DEPT_MGR;
+/
